@@ -1774,13 +1774,12 @@ body {
   }
   /* line 441, app/assets/stylesheets/partners.scss */
   .partners__header h1 {
-    font-size: 100px;
+    font-size: 140px;
     top: -2%;
   }
   /* line 446, app/assets/stylesheets/partners.scss */
   .partners__header p {
     top: 66vh;
-    color: red;
   }
   /* line 452, app/assets/stylesheets/partners.scss */
   .partners__form h1 {
